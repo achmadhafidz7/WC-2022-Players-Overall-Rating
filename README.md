@@ -9,7 +9,7 @@ The goals of this project is to:
 
 Data Source:
 1. FIFA 23 Players Dataset = https://www.kaggle.com/datasets/1898257a1915cbd22dd226f16c66dc218dfb65fd6f062755f4d0243bb8365a99
-2. Players in World Cup = 
+2. Players in World Cup = https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads
 
 Due to not all players are included in FIFA 23 Players Dataset, therefore I input manually for the players 
 that are not included in the dataset. I input the data base on the data from www.fifaratings.com
