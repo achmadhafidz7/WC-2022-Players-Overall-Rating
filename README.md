@@ -22,4 +22,4 @@ In this repository I inlcuded some files:
 5. wc_players_wiki.csv = The .csv file scraping the wiki page
 6. WC 2022 Players OVR.xlsx = The Excel file I use to combine and input all the data
 
-You can find the Tableau Visualization through this link :  
+You can find the Tableau Visualization through this link :  https://public.tableau.com/app/profile/achmad.hafidz/viz/FIFAWorldCup22OverallRatingViz/Dashboard
